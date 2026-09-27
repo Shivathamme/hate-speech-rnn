@@ -9,7 +9,7 @@ The project includes text preprocessing, vocabulary creation, sequence padding, 
 ## 🚀 Live Demo
 
 **Streamlit App:**  
-https://your-app-name.streamlit.app
+https://hate-speech-rnn-gbdhtmngu4umcgjnbwpizv.streamlit.app/
 
 > Replace the above URL with your actual Streamlit deployment URL after deployment.
 
